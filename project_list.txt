@@ -3,6 +3,8 @@ bano http://bano.openstreetmap.fr/bano_taginfo.json
 bikecitizens https://raw.githubusercontent.com/BikeCitizens/bikecitizens-taginfo/master/bikecitizens-routing.json
 boxlocator https://boxlocator.eu/boxlocator_taginfo.json
 checkautopista https://k1wiosm.github.io/checkautopista2/taginfo.json
+closely https://raw.githubusercontent.com/julienrf/closely/master/taginfo.json
+cosmogony https://raw.githubusercontent.com/osm-without-borders/cosmogony/master/taginfo.json
 direction https://raw.githubusercontent.com/osmtools/direction/master/taginfo.json
 geofabrik_free_shapes http://download.geofabrik.de/taginfo-free-shapes.json
 hackerspaces_map http://www.technomancy.org/osm-hackerspaces/taginfo.json
@@ -14,6 +16,7 @@ josm_external_presets https://josm.openstreetmap.de/download/taginfo/taginfo_ext
 josm_main_mappaint_style https://josm.openstreetmap.de/download/taginfo/taginfo_style.json
 josm_main_presets https://josm.openstreetmap.de/download/taginfo/taginfo_presets.json
 map_features http://tools.wmflabs.org/wp-world/wikidata/map_features_page.php
+mapnik_fire_overlay https://raw.githubusercontent.com/hholzgra/Mapnik-fire-overlay/master/taginfo.json
 maxheight_map https://raw.githubusercontent.com/mmd-osm/osm-maxheight-map/master/taginfo.json
 missing_boundaries https://wambachers-osm.website/index.php/projekte/internationale-administrative-grenzen/missing-boundaries/taginfo.json
 nominatim http://nominatim.openstreetmap.org/taginfo.json
@@ -31,6 +34,7 @@ osm2vectortiles https://raw.githubusercontent.com/osm2vectortiles/osm2vectortile
 osm2world http://osm2world.org/docs/taginfo/taginfo.json
 osm_boundaries_map https://wambachers-osm.website/boundaries/taginfo.json
 osm_carto_de https://raw.githubusercontent.com/giggls/openstreetmap-carto-de/master/views_osmde/taginfo.json
+osm_detailed_overlays https://raw.githubusercontent.com/twpol/osm-tiles/master/Documentation/taginfo.json
 osm_emergency_map https://wambachers-osm.website/emergency/taginfo.json
 osm_inspector_addresses https://raw.githubusercontent.com/ltog/osmi-addresses/master/taginfo.json
 osm_inspector_public_transport_railways http://tools.geofabrik.de/osmi/osmi_pubtrans_railways.json
@@ -58,11 +62,13 @@ townlands_ie https://www.townlands.ie/taginfo.json
 traffic_signs_ame https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_ame.json
 traffic_signs_eur https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_eur.json
 traffic_signs_pac https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_pac.json
+umweltzone https://raw.githubusercontent.com/johnjohndoe/Umweltzone/master/openstreetmap-taginfo/taginfo.json
 unterkunftskarte http://unterkunftskarte.de/unterkunftskarte.json
-valhalla https://raw.githubusercontent.com/valhalla/mjolnir/master/taginfo.json
+valhalla https://raw.githubusercontent.com/valhalla/valhalla/master/taginfo.json
 vespucci https://raw.githubusercontent.com/MarcusWolschon/osmeditor4android/master/taginfo.json
 wanderreitkarte http://www.wanderreitkarte.de/download/taginfo.json
 waymarkedtrails http://static.waymarkedtrails.org/taginfo.json
 wikidata_org http://tools.wmflabs.org/wp-world/wikidata/tags.php
 wuzzelmap http://wuzzelmap.ck.si/taginfo.json
+xctrails https://www.xctrails.org/taginfo.json
 yohours http://projets.pavie.info/yohours/taginfo.json
